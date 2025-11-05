@@ -1,0 +1,8 @@
+h1{
+    background-color: black;
+    color: white;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+}
